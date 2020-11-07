@@ -27,9 +27,6 @@ As a user, I want to be able to view my entire employee directory at once so tha
 
 ## Screenshots
 <img src="screenshot.png" alt="employee-directory"/>
-
-## License
-This project is licensed under the ISC License
    
 ## Questions
 Please contact me using one of the following:
